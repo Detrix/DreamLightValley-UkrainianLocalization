@@ -10,7 +10,7 @@
 
 Виконайте ці прості кроки, щоб почати грати українською:
 
-1. **Завантажте архів** `LocDB_en-US.zip` (його можна знайти праворуч у розділі [Releases]([https://github.com/ТвійЮзернейм/ТвійРепозиторій/releases](https://github.com/Detrix/DreamLightValley-UkrainianLocalization/releases/tag/v1.0.0))).
+1. **Завантажте архів** `LocDB_en-US.zip` (його можна знайти праворуч у розділі [Releases](https://github.com/Detrix/DreamLightValley-UkrainianLocalization/releases/tag/v1.0.0)).
 2. **Перейдіть до папки з грою.** Зазвичай шлях виглядає так:
    ```text
    D:\Steam\steamapps\common\Disney Dreamlight Valley\ddv_Data\StreamingAssets\Localization
